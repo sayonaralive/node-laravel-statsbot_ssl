@@ -1,0 +1,26 @@
+{
+  "name": "node-laravel-statsbot_ssl",
+  "version": "1.0.0",
+  "description": "NodeJS laravel stats bot for update live stats and live drops",
+  "main": "index_ssl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayonaralive/node-laravel-statsbot.git"
+  },
+  "author": "sayonaralive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayonaralive/node-laravel-statsbot/issues"
+  },
+  "homepage": "https://github.com/sayonaralive/node-laravel-statsbot#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "requestify": "^0.2.5",
+    "socket.io": "^1.7.1"
+  }
+}
